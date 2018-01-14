@@ -1,5 +1,7 @@
 <?php
-
+function test(){
+	echo "hello,world!";
+}
 function foo()
 {
     $numargs = func_num_args(); //参数数量
