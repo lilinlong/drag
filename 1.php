@@ -1,6 +1,7 @@
 <?php
 function test(){
 	echo "hello,world!";
+	echo " I have a dream";
 }
 function foo()
 {
